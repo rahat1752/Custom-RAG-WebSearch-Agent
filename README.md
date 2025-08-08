@@ -2,7 +2,7 @@
 
 # Web-Based Retrieval-Augmented Generation (RAG) Agent
 
-This project is a web-driven RAG pipeline that combines Google Custom Search, BeautifulSoup-based web scraping, and a lightweight QA model (e.g., fine-tuned RoBERTa or similar) to extract structured information from unstructured web content. Originally designed to extract homicide statistics and inflation-related figures, the system is generalizable to any domain-specific information extraction task from publicly available articles.
+This project is a web-driven RAG pipeline that combines Google Custom Search, BeautifulSoup-based web scraping, and a lightweight QA model (e.g., fine-tuned RoBERTa or similar) to extract structured information from unstructured web content. Originally designed to extract financial information (News and public reaction on inflation, stock price etc.), the system is generalizable to any domain-specific information extraction task from publicly available articles.
 
 ---
 
